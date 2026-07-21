@@ -1,1 +1,6 @@
+You can use some great images and badges on your readme.md!
+Here are some examples.
 
+
+# readme.md test
+![[badge_javascript][js.svg]][https://developer.mozilla.org/ja/docs/Web/JavaScript]
