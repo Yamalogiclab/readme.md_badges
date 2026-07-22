@@ -1,8 +1,7 @@
-| # readme.md_badges | ![badge_debug][debugsvg] |
+# readme.md_badges
 [![badge_html][htmlsvg]][htmllink]
 [![badge_javascript][jssvg]][jslink]
 [![badge_css][csssvg]][csslink]
-
 ![badge_debug][debugsvg]
 
 #### You can use some cool language badges on your "README.md"!!
