@@ -1,4 +1,4 @@
-# readme.md_badges
+| # readme.md_badges | ![badge_debug][debugsvg] |
 [![badge_html][htmlsvg]][htmllink]
 [![badge_javascript][jssvg]][jslink]
 [![badge_css][csssvg]][csslink]
