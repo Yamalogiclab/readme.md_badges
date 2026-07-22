@@ -3,7 +3,7 @@
 [![badge_javascript][jssvg]][jslink]
 [![badge_css][csssvg]][csslink]
 
-[![badge_debug][debugsvg]]
+![badge_debug][debugsvg]
 
 
 [jssvg]: image/js_badge.svg
