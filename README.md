@@ -2,5 +2,5 @@
 [![badge_javascript][jspng]][jslink]
 
 
-[jspng]: js_badge.svg
+[jspng]: image/js_badge.svg
 [jslink]: https://developer.mozilla.org/ja/docs/Web/JavaScript
